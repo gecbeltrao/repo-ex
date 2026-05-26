@@ -20,7 +20,7 @@ try:
     conn = mysql.connector.connect(
         host="localhost",
         user="gecbeltrao",
-        password="Yron@1987",
+        password="root",
         database="escola_2"
     )
 
